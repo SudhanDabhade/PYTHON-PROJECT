@@ -1,5 +1,5 @@
 # PYTHON-PROJECT
-"The Basic Calculator"  using python programming language .
+"THE SNAKE GAME"  using python programming language .
 
 After completing Python SIG program conducted by PICT ACM STUDENT CHAPTER (PASC)
 I have learned various things,
